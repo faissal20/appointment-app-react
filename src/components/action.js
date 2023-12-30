@@ -1,5 +1,5 @@
+import axios from 'axios';
 const ROOT_URL = 'http://localhost:8000';
-import axios from "axios";
 
 axios.defaults.withCredentials = true
 
